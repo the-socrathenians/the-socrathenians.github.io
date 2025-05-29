@@ -3,6 +3,28 @@ Try the demo at https://the-socrathenians.github.io/demo/
 
 Hosted using [GitHub Pages](https://pages.github.com/)
 
+
+- [ ] TODO make an actual README
+
+
+Readme from old repo: https://gitlab.ethz.ch/asandru/design_in_educational_technology_matching_website
+
+# Design In_Educational Technology: Matching Website
+
+## Name
+Social Academic Matcher (SAM)
+
+## Description
+This project allows users to create a profile page and match them with other individuals based on similar interests to promote social learning! It is intended to be used in professional settings for educational purposes.
+
+## Installation
+Simply clone the repo and use the live server extension for convenience.
+
+## Authors and acknowledgment
+Masterminded by Albert, Bibin, Mark, (and Claude 3.7 Sonnet lmao).
+
+
+
 # Academic Project Page Template
 This is an academic paper project page template.
 
