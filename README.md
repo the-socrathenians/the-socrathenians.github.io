@@ -27,9 +27,9 @@ Hosted using [GitHub Pages](https://pages.github.com/)
 
 
 
-- [ ] TODO delete this section after use:
 
 ## Tips:
+- [ ] TODO delete this section after use:
 - The `index.html` file contains comments instructing you what to replace, you should follow these comments.
 - The `meta` tags in the `index.html` file are used to provide metadata about your paper 
 (e.g. helping search engine index the website, showing a preview image when sharing the website, etc.)
