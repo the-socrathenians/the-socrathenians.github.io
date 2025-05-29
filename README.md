@@ -1,4 +1,5 @@
 Visit https://the-socrathenians.github.io/
+Try the demo at https://the-socrathenians.github.io/demo/
 
 Hosted using [GitHub Pages](https://pages.github.com/)
 
