@@ -1,3 +1,7 @@
+Visit https://the-socrathenians.github.io/
+
+Hosted using [GitHub Pages](https://pages.github.com/)
+
 # Academic Project Page Template
 This is an academic paper project page template.
 
